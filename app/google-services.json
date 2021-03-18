@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "832423971454",
+    "firebase_url": "https://lagan-1f376.firebaseio.com",
+    "project_id": "lagan-1f376",
+    "storage_bucket": "lagan-1f376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832423971454:android:d8ad7207b31037900fe62f",
+        "android_client_info": {
+          "package_name": "com.example.agro2o"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832423971454-lmgj0i18lhbi9gsmqpn25td4r7he1hq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.agro2o",
+            "certificate_hash": "b172c4a90aca065e6889f7fd54358e972bc369a3"
+          }
+        },
+        {
+          "client_id": "832423971454-51g44l0dgg65ditdu7k6v0774ng5dq2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC19xjFEGn2syaZKQAB4Vg5MJRgz2DKo18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832423971454-51g44l0dgg65ditdu7k6v0774ng5dq2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
